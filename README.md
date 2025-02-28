@@ -1,2 +1,2 @@
-# Faculdade-
+# Faculdade
 Pratica em UML e Phython
